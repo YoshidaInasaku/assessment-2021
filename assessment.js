@@ -91,7 +91,7 @@ function assessment(userName) {
   return result;
 }
 
-// テストコード
+// テストコード（一部に変更を加えたので、のちに修正が必要になる）
 console.assert(
   assessment('太郎') ===
     '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。',
